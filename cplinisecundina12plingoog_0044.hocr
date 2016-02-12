@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cplinisecundina12plingoog_0044.png"; bbox 0 0 2444 3910; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 173 1130 789 1273">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 173 1130 789 1273">
+     <span class='ocr_line' id='line_1_1' title="bbox 173 1130 789 1273; baseline 0.005 -4"><span class='ocrx_word' id='word_1_1' title='bbox 173 1136 185 1154; x_wconf 83' lang='lat'><em>&#39;</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 337 1130 789 1273; x_wconf 53' lang='lat' dir='ltr'>&amp;1³11lessch</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 80 1443 1032 1675">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 67 1443 1032 1675">
+     <span class='ocr_line' id='line_1_2' title="bbox 80 1443 1032 1675; baseline 0.001 -61.987"><span class='ocrx_word' id='word_1_3' title='bbox 80 1497 555 1675; x_wconf 67' lang='lat' dir='ltr'><strong>NATURAms</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 591 1443 1032 1638; x_wconf 73' lang='lat' dir='ltr'>Hls&#39;TORIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 392 1887 720 1955">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 392 1887 720 1955">
+     <span class='ocr_line' id='line_1_3' title="bbox 392 1887 720 1955; baseline 0.009 -3"><span class='ocrx_word' id='word_1_5' title='bbox 392 1887 516 1952; x_wconf 88' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_6' title='bbox 536 1888 720 1955; x_wconf 88' lang='lat' dir='ltr'>VII-XV.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1226 3910">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1226 3910">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1226 3910; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1226 3910; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
